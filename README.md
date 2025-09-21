@@ -24,4 +24,11 @@ Sales show strong seasonal/monthly fluctuations, with October and November outpe
 Hourly sales analysis revealed clear demand spikes, crucial for workforce and logistics planning.
 Yearly analysis shows steady category growth with cyclical performance patterns.
 
+Business Problem:-
+Pharmaceutical companies often face challenges in understanding sales fluctuations, forecasting demand, and identifying high-performing categories. Without clear insights, they risk stockouts, overproduction, or missed revenue opportunities. This dashboard addresses these issues by providing a data-driven view of sales trends.
+
+Screenshot:-(https://github.com/sanskrutib30/Pharma-Drug-Analysis-Dashboard/blob/main/Pharma%20Drug%20Sales%20Analysis.png)
+
+
+
 
