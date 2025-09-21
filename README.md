@@ -15,8 +15,7 @@ Power Query - Data transformtaion and cleaning layer for reshaping and preparing
 DAX(Data Analysis Expression)- Used for calculating and conditional logic 
 File Format - .pbix for development and .png for dashboard previews.
 
-Data Source:-
-Source:- Github
+Data Source:-Github
 
 Key Insights:-
 One category accounts for ~52% of total daily sales, making it the dominant revenue driver.
